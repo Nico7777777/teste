@@ -1,4 +1,4 @@
 # teste
 
-hat johnilor
-cf bai nebunilor
+Hat johnilor!! <br>
+Cf bai nebunilor
